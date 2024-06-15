@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main{
+  background-image: url("./assets/Background.jpg");
+  background-size:cover ;
+}
+.sec{
+  background-image: url("./assets/background2.jpg");
+  background-size:cover ;
+}
+.four{
+  background-image: url("./assets/background4.jpg");
+  background-size:cover ;
+}
